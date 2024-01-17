@@ -22,6 +22,6 @@
 
 
 
-![Stracture](stracture.png);
+![Structure](structure.png);
 ![Logo](https://e-square.io/assets/images/e-sqr-logo-ondark.svg)
 
