@@ -10,7 +10,7 @@
 - [ ]  Run `npm i typescript --save-dev`
 - [ ]  run `tsc --init`
 - [ ]  Run `npm install webpack webpack-cli --save-dev`
-- [ ]  Run `tsc && webpack`
+- [ ]  Add `"start": "tsc && webpack"` to scripts.
 
 ## Task 2
 - [ ] Create new file name `user.ts`
