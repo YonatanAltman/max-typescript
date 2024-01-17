@@ -19,3 +19,9 @@
 - [ ] Add Travel interface `export interface Travel{}`
 - [ ] Add travels property to User => `travels:Travel[]`
 - [ ] DOD `console.log(user)`
+
+
+
+![Stracture](stracture.png);
+![Logo](https://e-square.io/assets/images/e-sqr-logo-ondark.svg)
+
