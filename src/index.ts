@@ -1,3 +1,5 @@
+import {initUser} from "./user";
+
 class Address {
     street?: string;
     city: string | null;
@@ -46,3 +48,10 @@ person.updateLastName('altman');
 
 
 console.log(person);
+
+
+const user = initUser({});
+
+console.log('just init',user); // user.name = 'אורח'
+const user2 = initUser({age:18,name:'Golan'})
+console.log('with parameters',user2); // user.name = 'Golan'
