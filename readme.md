@@ -13,5 +13,9 @@
 - [ ]  Add `"start": "tsc && webpack"` to scripts.
 
 ## Task 2
-- [ ] Create new file name `user.ts`
+- [ ] Create new file name `src/user.ts`
 - [ ] Add User classes for your end project
+- [ ] Create new file name `src/travel.ts`
+- [ ] Add Travel interface `export interface Travel{}`
+- [ ] Add travels property to User => `travels:Travel[]`
+- [ ] DOD `console.log(user)`

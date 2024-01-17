@@ -11,7 +11,7 @@ interface User {
     lastName: string;
     age: number;
     role: RoleType;
-
+    logs: string[]//Array<string>
 }
 
 interface Employee extends User {
@@ -28,6 +28,7 @@ export const initUser = (user: Partial<User>): User => {
         lastName: user.lastName || '🫡',
         age: user.age,
         role: user.role,
+        logs:[]
         // ...user
     }
 
