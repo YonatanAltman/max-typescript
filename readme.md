@@ -11,3 +11,7 @@
 - [ ]  run `tsc --init`
 - [ ]  Run `npm install webpack webpack-cli --save-dev`
 - [ ]  Run `tsc && webpack`
+
+## Task 2
+- [ ] Create new file name `user.ts`
+- [ ] Add User classes for your end project
